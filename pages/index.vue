@@ -89,7 +89,7 @@
     <a href="#">
         <img class="p-8 rounded-t-lg" src="../static/imgs/revolt-164_6wVEHfI-unsplash.jpg" alt="product image">
     </a>
-    <div class="absolute top-10 right-10 text-white"> 
+    <div class="absolute top-10 right-10 text-"> 
           <button type="button" class="inline-block px-5 py-1 border-2 border-yellow-500 text-yellow-300 font-medium text-xl leading-tight uppercase rounded-full hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0 transition duration-150 ease-in-out">40% off</button>
          
         </div>
@@ -258,7 +258,10 @@
       
   </div>
 </div>
-<button type="button" class="text-green-700 bg-white border border-green-700 focus:outline-none hover:bg-green-700 focus:ring-4 focus:ring-gray-200 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 dark:bg-green-700 dark:text-white dark:border-green-700 ">View All Products</button>
+<div class="text-center mt-20"> 
+  <button type="button" class="text-green-700 bg-white border border-green-700 focus:outline-none hover:bg-green-700 focus:ring-4 focus:ring-gray-200 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 dark:bg-green-700 dark:text-white dark:border-green-700 ">View All Products</button>
+</div>
+
    <h1 class="text-center text-4xl text-red-500 mt-32">Fantacy Dressing<br>
     <span class="text-gray-500 text-2xl">Design is a part of life</span></h1> 
 
