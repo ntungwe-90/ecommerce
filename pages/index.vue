@@ -59,7 +59,7 @@
 <div class="w-full max-w-sm bg-white rounded-lg shadow-md dark:bg-gray-800 dark:border-gray-700">
   <div class="relative text-center ">
     <a href="#">
-        <img class="p-8 rounded-t-lg" src="../static/imgs/paul-volkmer-updW-QUccFE-unsplash.jpg" alt="product image">
+        <img class="p-8 rounded-t-lg" src="../static/imgs/peter-albanese-Gqlmzo-q6mY-unsplash.jpg" alt="product image">
         <div class="absolute top-10 right-10 text-yellow-300"> 
           <button type="button" class="inline-block px-5 py-1 border-2 border-yellow-500 text-yellow-300 font-medium text-xl leading-tight uppercase rounded-full hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0 transition duration-150 ease-in-out">40% off</button>
          
@@ -113,9 +113,15 @@
     </div>
 </div>
 <div class="w-full max-w-sm bg-white rounded-lg shadow-md dark:bg-gray-800 dark:border-gray-700">
+  <div class="relative text-center ">
     <a href="#">
         <img class="p-8 rounded-t-lg" src="../static/imgs/hamza-nouasria-EdUIsPs-vOM-unsplash.jpg" alt="product image">
     </a>
+    <div class="absolute top-10 right-10 text-"> 
+          <button type="button" class="inline-block px-5 py-1 border-2 border-yellow-500 text-yellow-300 font-medium text-xl leading-tight uppercase rounded-full hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0 transition duration-150 ease-in-out">40% off</button>
+         
+        </div>
+  </div>
     <div class="px-5 pb-5">
         <a href="#">
             <h5 class="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">Apple Watch Series 7 GPS, Aluminium Case, Starlight Sport</h5>
@@ -136,9 +142,15 @@
 </div>
 
 <div class="w-full max-w-sm bg-white rounded-lg shadow-md dark:bg-gray-800 dark:border-gray-700">
+  <div class="relative text-center ">
     <a href="#">
         <img class="p-8 rounded-t-lg" src="../static/imgs/the-dk-photography-NUoPWImmjCU-unsplash.jpg" alt="product image">
     </a>
+    <div class="absolute top-10 right-10 text-"> 
+          <button type="button" class="inline-block px-5 py-1 border-2 border-yellow-500 text-yellow-300 font-medium text-xl leading-tight uppercase rounded-full hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0 transition duration-150 ease-in-out">40% off</button>
+         
+        </div>
+        </div>
     <div class="px-5 pb-5">
         <a href="#">
             <h5 class="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">Apple Watch Series 7 GPS, Aluminium Case, Starlight Sport</h5>
@@ -166,9 +178,15 @@
  <div class="flex flex-wrap justify-evenly mt-10 bg-gray-100"> 
   
   <div class="w-full max-w-sm bg-white rounded-lg shadow-md dark:bg-gray-800 dark:border-gray-700">
+    <div class="relative text-center ">
       <a href="#">
-          <img class="p-8 rounded-t-lg" src="../static/imgs/salman-hossain-saif-bBTWoeep1vw-unsplash.jpg" alt="product image">
+          <img class="p-8 rounded-t-lg" src="../static/imgs/mana-akbarzadegan-Y0RB2z12F1A-unsplash.jpg" alt="product image">
       </a>
+      <div class="absolute top-10 right-10 text-"> 
+          <button type="button" class="inline-block px-5 py-1 border-2 border-yellow-500 text-yellow-300 font-medium text-xl leading-tight uppercase rounded-full hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0 transition duration-150 ease-in-out">40% off</button>
+         
+        </div>
+      </div>
       <div class="px-5 pb-5">
           <a href="#">
               <h5 class="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">Apple Watch Series 7 GPS, Aluminium Case, Starlight Sport</h5>
@@ -189,9 +207,15 @@
   </div>
   
   <div class="w-full max-w-sm bg-white rounded-lg shadow-md dark:bg-gray-800 dark:border-gray-700">
+    <div class="relative text-center ">
       <a href="#">
-          <img class="p-8 rounded-t-lg" src="../static/imgs/maksim-larin-NOpsC3nWTzY-unsplash.jpg" alt="product image">
+          <img class="p-8 rounded-t-lg" src="../static/imgs/linda-xu-fUEP0djb1hA-unsplash.jpg" alt="product image">
       </a>
+      <div class="absolute top-10 right-10 text-"> 
+          <button type="button" class="inline-block px-5 py-1 border-2 border-yellow-500 text-yellow-300 font-medium text-xl leading-tight uppercase rounded-full hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0 transition duration-150 ease-in-out">40% off</button>
+         
+        </div>
+      </div>
       <div class="px-5 pb-5">
           <a href="#">
               <h5 class="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">Apple Watch Series 7 GPS, Aluminium Case, Starlight Sport</h5>
@@ -211,9 +235,15 @@
       </div>
   </div>
   <div class="w-full max-w-sm bg-white rounded-lg shadow-md dark:bg-gray-800 dark:border-gray-700">
+    <div class="relative text-center ">
       <a href="#">
-          <img class="p-8 rounded-t-lg" src="../static/imgs/the-nix-company-m6mAYVEHlNs-unsplash.jpg" alt="product image">
+          <img class="p-8 rounded-t-lg" src="../static/imgs/malvestida-DMl5gG0yWWY-unsplash.jpg" alt="product image">
       </a>
+      <div class="absolute top-10 right-10 text-"> 
+          <button type="button" class="inline-block px-5 py-1 border-2 border-yellow-500 text-yellow-300 font-medium text-xl leading-tight uppercase rounded-full hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0 transition duration-150 ease-in-out">40% off</button>
+         
+        </div>
+        </div>
       <div class="px-5 pb-5">
           <a href="#">
               <h5 class="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">Apple Watch Series 7 GPS, Aluminium Case, Starlight Sport</h5>
@@ -234,10 +264,15 @@
   </div>
   
   <div class="w-full max-w-sm bg-white rounded-lg shadow-md dark:bg-gray-800 dark:border-gray-700">
+    <div class="relative text-center ">
       <a href="#" class="">
-       
-          <img class="p-8 rounded-t-lg" src="../static/imgs/alexandra-gorn-CJ6SJO_yR5w-unsplash (1).jpg" alt="product image">
+        <img class="p-8 rounded-t-lg" src="../static/imgs/paul-volkmer-updW-QUccFE-unsplash.jpg" alt="product image">
       </a>
+      <div class="absolute top-10 right-10 text-"> 
+          <button type="button" class="inline-block px-5 py-1 border-2 border-yellow-500 text-yellow-300 font-medium text-xl leading-tight uppercase rounded-full hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0 transition duration-150 ease-in-out">40% off</button>
+         
+        </div>
+      </div>
       <div class="px-5 pb-5">
           <a href="#">
               <h5 class="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">Apple Watch Series 7 GPS, Aluminium Case, Starlight Sport</h5>
@@ -259,7 +294,9 @@
   </div>
 </div>
 <div class="text-center mt-20"> 
-  <button type="button" class="text-green-700 bg-white border border-green-700 focus:outline-none hover:bg-green-700 focus:ring-4 focus:ring-gray-200 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 dark:bg-green-700 dark:text-white dark:border-green-700 ">View All Products</button>
+  <NuxtLink to="/all">
+  <button type="button" class="text-green-700 text-2xl bg-white border border-green-700 focus:outline-none hover:bg-green-700 hover:text-white focus:ring-4 focus:ring-gray-200 font-medium rounded-lg  px-5 py-2.5 mr-2 mb-2 dark:bg-green-700 dark:text-white dark:border-green-700 ">View All Products</button>
+</NuxtLink>
 </div>
 
    <h1 class="text-center text-4xl text-red-500 mt-32">Fantacy Dressing<br>
@@ -279,17 +316,17 @@
         </div>
         <div class="w-full p-1 md:p-2">
           <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-            src="../static/imgs/chalo-garcia-rygrPAseHmY-unsplash.jpg">
+            src="../static/imgs/dom-hill-nimElTcTNyY-unsplash.jpg">
         </div>
       </div>
       <div class="flex flex-wrap w-1/2">
         <div class="w-full p-1 md:p-2">
           <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-            src="../static/imgs/tobias-tullius-Fg15LdqpWrs-unsplash.jpg">
+            src="../static/imgs/very-petty-girl-zRUP4LrIn68-unsplash.jpg">
         </div>
         <div class="w-1/2 p-1 md:p-2">
           <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
-            src="../static/imgs/david-todd-mccarty-WjHOXP6xIY4-unsplash.jpg">
+            src="../static/imgs/chalo-garcia-rygrPAseHmY-unsplash.jpg">
         </div>
         <div class="w-1/2 p-1 md:p-2">
           <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"

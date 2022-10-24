@@ -3,9 +3,9 @@
    <div class="navbar flex text-white relative">
       <div class="nav-item-center flex space-x-6 sm:space-x-20 p-5 mx-auto text-lg ">
         <NuxtLink to="/" class="hover:bg-pink-300 hover:text-black  hover:rounded ">Home</NuxtLink>
-        <NuxtLink to="/all" class="hover:bg-pink-300 hover:text-black  hover:rounded ">All</NuxtLink>
         <NuxtLink to="/men" class="hover:bg-pink-300 hover:text-black  hover:rounded ">Men</NuxtLink>
         <NuxtLink to="/women" class="hover:bg-pink-300 hover:text-black  hover:rounded ">Women</NuxtLink>
+        <NuxtLink to="/all" class="hover:bg-pink-300 hover:text-black  hover:rounded ">All</NuxtLink>
       </div>
       <div class="cart fixed bottom-0 right-0 shadow-md m-3">
         <p class="p-1 cartCount text-xs absolute top-0 right-0">
@@ -19,6 +19,7 @@
         <p class="text-center pt-3">menu</p>
       </div> -->
     </div>
+   
   </div>
   </template>
   
