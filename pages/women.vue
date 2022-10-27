@@ -69,6 +69,8 @@
 </div>
  </div>
 
+
+ <h1 class="text-4xl text-center  mt-20">New arrivals today </h1>
  <!-- <div class="text-center">
 <img class="max-w-full h-auto" src="../static/imgs/freestocks-_3Q3tsJ01nc-unsplash-removebg-preview.png" alt="image description">
 </div> -->
