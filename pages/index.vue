@@ -60,7 +60,7 @@
   <div class="relative text-center ">
     <a href="#">
         <img class="p-8 rounded-t-lg" src="../static/imgs/peter-albanese-Gqlmzo-q6mY-unsplash.jpg" alt="product image">
-        <div class="absolute top-10 right-10 text-yellow-300"> 
+        <div class="absolute top-10 right-10 text-white"> 
           <button type="button" class="inline-block px-5 py-1 border-2 border-yellow-500 text-yellow-300 font-medium text-xl leading-tight uppercase rounded-full hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0 transition duration-150 ease-in-out">40% off</button>
          
         </div>
@@ -78,9 +78,13 @@
             <span class="bg-blue-100 text-blue-800 text-xs font-semibold mr-2 px-2.5 py-0.5 rounded dark:bg-blue-200 dark:text-blue-800 ml-3">5.0</span>
         </div>
         <div class="flex justify-between items-center">
-            <span class="text-3xl font-bold text-gray-900 dark:text-white">$599</span>
-            <a href="#" class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Add to cart</a>
+            <span class="text-3xl font-bold text-gray-900 dark:text-white line-through">$599</span>
+            <span class="text-3xl font-bold text-green-700 dark:text-white">$500</span>
+            
+            <a href="/cart" class="text-green-800 border border-green-800 focus:ring-4 hover:bg-green-700 hover:text-white  focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Add to cart</a>
+            
         </div>
+        
     </div>
 </div>
 
@@ -107,8 +111,10 @@
             <span class="bg-blue-100 text-blue-800 text-xs font-semibold mr-2 px-2.5 py-0.5 rounded dark:bg-blue-200 dark:text-blue-800 ml-3">5.0</span>
         </div>
         <div class="flex justify-between items-center">
-            <span class="text-3xl font-bold text-gray-900 dark:text-white">$599</span>
-            <a href="#" class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Add to cart</a>
+          <span class="text-3xl font-bold text-gray-900 dark:text-white line-through">$599</span>
+            <span class="text-3xl font-bold text-green-700 dark:text-white">$500</span>
+            
+            <a href="/cart" class="text-green-800 border border-green-800 focus:ring-4 focus:outline-none hover:bg-green-700 hover:text-white focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Add to cart</a>
         </div>
     </div>
 </div>
@@ -135,8 +141,10 @@
             <span class="bg-blue-100 text-blue-800 text-xs font-semibold mr-2 px-2.5 py-0.5 rounded dark:bg-blue-200 dark:text-blue-800 ml-3">5.0</span>
         </div>
         <div class="flex justify-between items-center">
-            <span class="text-3xl font-bold text-gray-900 dark:text-white">$599</span>
-            <a href="#" class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Add to cart</a>
+          <span class="text-3xl font-bold text-gray-900 dark:text-white line-through">$599</span>
+            <span class="text-3xl font-bold text-green-700 dark:text-white">$500</span>
+            
+            <a href="/cart" class="text-green-800 border border-green-800 focus:ring-4 hover:bg-green-700 hover:text-white focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Add to cart</a>
         </div>
     </div>
 </div>
@@ -164,8 +172,10 @@
             <span class="bg-blue-100 text-blue-800 text-xs font-semibold mr-2 px-2.5 py-0.5 rounded dark:bg-blue-200 dark:text-blue-800 ml-3">5.0</span>
         </div>
         <div class="flex justify-between items-center">
-            <span class="text-3xl font-bold text-gray-900 dark:text-white">$599</span>
-            <a href="#" class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Add to cart</a>
+          <span class="text-3xl font-bold text-gray-900 dark:text-white line-through">$599</span>
+            <span class="text-3xl font-bold text-green-700 dark:text-white">$500</span>
+            
+            <a href="/cart" class="text-green-800 border border-green-800 focus:ring-4 hover:bg-green-700 hover:text-white focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Add to cart</a>
         </div>
     </div>
     
@@ -200,8 +210,10 @@
               <span class="bg-blue-100 text-blue-800 text-xs font-semibold mr-2 px-2.5 py-0.5 rounded dark:bg-blue-200 dark:text-blue-800 ml-3">5.0</span>
           </div>
           <div class="flex justify-between items-center">
-              <span class="text-3xl font-bold text-gray-900 dark:text-white">$599</span>
-              <a href="#" class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Add to cart</a>
+              <span class="text-3xl font-bold text-gray-900 dark:text-white line-through">$599</span>
+            <span class="text-3xl font-bold text-green-700 dark:text-white">$500</span>
+            
+            <a href="/cart" class="text-green-800 border border-green-800 focus:ring-4 hover:bg-green-700 hover:text-white focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Add to cart</a>
           </div>
       </div>
   </div>
@@ -229,8 +241,10 @@
               <span class="bg-blue-100 text-blue-800 text-xs font-semibold mr-2 px-2.5 py-0.5 rounded dark:bg-blue-200 dark:text-blue-800 ml-3">5.0</span>
           </div>
           <div class="flex justify-between items-center">
-              <span class="text-3xl font-bold text-gray-900 dark:text-white">$599</span>
-              <a href="#" class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Add to cart</a>
+            <span class="text-3xl font-bold text-gray-900 dark:text-white line-through">$599</span>
+            <span class="text-3xl font-bold text-green-700 dark:text-white">$500</span>
+            
+            <a href="/cart" class="text-green-800 border border-green-800 focus:ring-4 hover:bg-green-700 hover:text-white focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Add to cart</a>
           </div>
       </div>
   </div>
@@ -257,8 +271,10 @@
               <span class="bg-blue-100 text-blue-800 text-xs font-semibold mr-2 px-2.5 py-0.5 rounded dark:bg-blue-200 dark:text-blue-800 ml-3">5.0</span>
           </div>
           <div class="flex justify-between items-center">
-              <span class="text-3xl font-bold text-gray-900 dark:text-white">$599</span>
-              <a href="#" class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Add to cart</a>
+            <span class="text-3xl font-bold text-gray-900 dark:text-white line-through">$599</span>
+            <span class="text-3xl font-bold text-green-700 dark:text-white">$500</span>
+            
+            <a href="/cart" class="text-green-800 border border-green-800 focus:ring-4 hover:bg-green-700 hover:text-white focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Add to cart</a>
           </div>
       </div>
   </div>
@@ -286,8 +302,10 @@
               <span class="bg-blue-100 text-blue-800 text-xs font-semibold mr-2 px-2.5 py-0.5 rounded dark:bg-blue-200 dark:text-blue-800 ml-3">5.0</span>
           </div>
           <div class="flex justify-between items-center">
-              <span class="text-3xl font-bold text-gray-900 dark:text-white">$500</span>
-              <a href="#" class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Add to cart</a>
+            <span class="text-3xl font-bold text-gray-900 dark:text-white line-through">$599</span>
+            <span class="text-3xl font-bold text-green-700 dark:text-white">$500</span>
+            
+            <a href="/cart" class="text-green-800 border border-green-800 focus:ring-4 focus:outline-none hover:bg-green-700 hover:text-white focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Add to cart</a>
           </div>
       </div>
       
@@ -358,6 +376,9 @@ export default {
 </script>
 
 <style scoped>
+  body {
+    font-family: 'Nunito', sans-serif;
+    }
 .carousel-open:checked + .carousel-item {
   position: static;
   opacity: 100;
