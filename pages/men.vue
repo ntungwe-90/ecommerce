@@ -209,6 +209,46 @@
 </div>
 </div>
 
-  
+<section class="overflow-hidden text-gray-700">
+  <div class="container px-5 py-2 mx-auto lg:pt-24 lg:px-32">
+    <div class="flex flex-wrap -m-1 md:-m-2">
+      <div class="flex flex-wrap w-1/2">
+        <div class="w-1/2 p-1 md:p-2">
+          <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
+            src="../static/imgs/men.jpg">
+        </div>
+        <div class="w-1/2 p-1 md:p-2">
+          <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
+          src="../static/imgs/mike-von-ZrP2ahtPsG8-unsplash.jpg">
+        </div>
+        <div class="w-full p-1 md:p-2">
+          <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
+          src="../static/imgs/benjamin-rascoe-qKrvCTGceng-unsplash.jpg"> 
+        </div>
+      </div>
+      <div class="flex flex-wrap w-1/2">
+        <div class="w-full p-1 md:p-2">
+          <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
+          src="../static/imgs/janko-ferlic-G-jo31ESuRE-unsplash.jpg">
+        </div>
+        <div class="w-1/2 p-1 md:p-2">
+          <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
+          src="../static/imgs/mohammad-metri-E-0ON3VGrBc-unsplash.jpg">
+        </div>
+        <div class="w-1/2 p-1 md:p-2">
+          <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg"
+          src="../static/imgs/mike-von-ZrP2ahtPsG8-unsplash.jpg">
+        </div>
+      </div>
+    </div>
+
+    <div class="inline-flex justify-center items-center w-full">
+    <hr class="my-8 w-64 h-1 bg-gray-200 rounded border-0 dark:bg-gray-700">
+    <div class="absolute left-1/2 px-4 bg-white -translate-x-1/2 dark:bg-gray-900">
+        <svg aria-hidden="true" class="w-5 h-5 text-gray-700 dark:text-gray-300" viewBox="0 0 24 27" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M14.017 18L14.017 10.609C14.017 4.905 17.748 1.039 23 0L23.995 2.151C21.563 3.068 20 5.789 20 8H24V18H14.017ZM0 18V10.609C0 4.905 3.748 1.038 9 0L9.996 2.151C7.563 3.068 6 5.789 6 8H9.983L9.983 18L0 18Z" fill="currentColor"></path></svg>
+    </div>
+</div>
+  </div>
+</section>
   </div> 
 </template>
