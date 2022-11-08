@@ -37,9 +37,14 @@
 </div>
 <button type="submit"
    class="w-full mt-6 py-2  rounded bg-blue-500 text-gray-100  focus:outline-none ">Add Product</button>
+   <!-- <NuxtLink to="/" class="text-center">
+  <button type="button" class="text-green-700 text-2xl bg-white border uppercase border-green-700 focus:outline-none hover:bg-green-700 hover:text-white focus:ring-4 focus:ring-gray-200 font-medium rounded-lg  px-5 py-2.5 mr-2 mb-2 dark:bg-green-700 dark:text-white dark:border-green-700 ">logout</button>
+</NuxtLink> -->
         </form>
-    </div>
 
+        
+    </div>
+    
 </div>
 </template>
 <style scoped>

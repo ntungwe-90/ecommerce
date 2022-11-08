@@ -69,9 +69,19 @@
       </nuxt-link>
     </div>
 </div>
+
  </div>
+<div class="flex justify-center gap-5">
+ <Cards
+            v-for="n in [1,2,3,4]"
+            :key="n"
+            title="Apple Watch Series 7 GPS, Aluminium Case, Starlight Sport"
+            details="Lorem ipsum dolor sit,adipisicing elit. Sequi rem nobis in eius! "
+            :price="300"
+            :tourImage="require('@/static/imgs/men.jpg')"
+          />
 
-
+        </div>
  <h1 class="text-4xl text-center  mt-20">New arrivals today </h1>
  <!-- <div class="text-center">
 <img class="max-w-full h-auto" src="../static/imgs/freestocks-_3Q3tsJ01nc-unsplash-removebg-preview.png" alt="image description">
