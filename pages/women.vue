@@ -71,7 +71,7 @@
 </div>
 
  </div>
-<div class="flex justify-center gap-5">
+<div class="flex justify-evenly">
  <Cards
             v-for="n in [1,2,3,4]"
             :key="n"
