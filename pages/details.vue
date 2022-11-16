@@ -1,5 +1,6 @@
 <template>
     <div>
+      <Herosection/>
     <h1 class="text-red-700 text-4xl bg-gray-300 text-center">Product Detail</h1>
     <div class="flex justify-center">
   <div class="flex flex-col md:flex-row md:max-w-xl rounded-lg bg-white shadow-lg">

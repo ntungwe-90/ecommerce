@@ -1,5 +1,7 @@
 <template>
     <div>
+      <Herosection/>
+     
         <header
   class="relative flex items-center justify-center h-screen mb-12 overflow-hidden"
 >

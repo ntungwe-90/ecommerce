@@ -1,6 +1,7 @@
 <template>
   <div>
-    <h2 class="text-red-700 text-4xl bg-gray-300">Featured Products</h2>
+   
+    <h2 class="text-red-700 text-4xl bg-gray-300 text-center">Featured Products</h2>
  
     <div class="bg-white font-sans leading-normal tracking-normal">
 
@@ -51,6 +52,8 @@
 
   </div>
 </div>
+
+<Herosection/>
 </div>
 
  <h1 class="text-center text-4xl text-red-500 mt-32">Our Main Collections</h1> 

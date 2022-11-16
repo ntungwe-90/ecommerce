@@ -1,4 +1,6 @@
 <template> 
+<div>
+   <Herosection/>
 <div class="bgimage">
    <h1 class="text-red-700 text-center mt-20 text-4xl">New Arrivals Today</h1> 
     <div class="h-screen flex items-center justify-center">
@@ -33,7 +35,7 @@
 </div>
 
 <label class="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-300" for="user_avatar">Upload file</label>
-<input type="file"  placeholder="image"
+<input type="file"   placeholder="image"
 class="block w-full text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 cursor-pointer dark:text-gray-400 focus:outline-none dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400" aria-describedby="user_avatar_help">
 </div>
 <button type="button" @click="addproducts"
@@ -45,7 +47,9 @@ class="block w-full text-sm text-gray-900 bg-gray-50 rounded-lg border border-gr
 
         
     </div>
-    
+  
+    <Ads/>
+</div>
 </div>
 </template>
 <script>
@@ -88,7 +92,10 @@ export default{
             console.log(err);
          });
       }
-   }
+   },
+   mounted(){
+  }
+   
 } 
 </script>
 <style scoped>
